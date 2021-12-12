@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="New Test Table" max_length="40" name="x_58872_needit_new_test_table" type="collection">
+        <element label="new row" max_length="40" name="new_row" reference="automation_pipeline_command" type="string"/>
+    </element>
+</database>
